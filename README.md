@@ -22,4 +22,4 @@ If you have any idea, suggestions, or find any bugs, feel free to open a discuss
 
 ## License
 
-LICENSE : MIT LICENSE and Open Souce see the [LICENSE](LICENSE.md) file for details.
+LICENSE : MIT LICENSE and Open Source see the [LICENSE](LICENSE.md) file for details.
